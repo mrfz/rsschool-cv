@@ -59,3 +59,9 @@ parseEnv();
   - [soloLearn](sololearn.com) - pyhton, machine learning, C#, SQL
 
 ---
+## Languages
++ Russian - Native
++ English - Advanced - I've worked with foreigners at Inmarsat
++ Ukranian - Basic
+
+---
