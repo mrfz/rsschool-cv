@@ -16,7 +16,7 @@
 
 ## About Me
 
-I am 34 years old, work as Senior Service SCADA Engineer at ski resort in Sochi. Also I learn Industrial innovations at [DSTU](https://donstu.ru/). My willing to this course is to take a first step into software development in general and front-end in particular. 
+I am 34 years old, work as Senior Service SCADA Engineer at ski resort in Sochi. Also I learn Industrial innovations at [DONSTU](https://donstu.ru/). My willing to this course is to take a first step into software development in general and front-end in particular. 
 
 ---
 ## Skills
@@ -35,5 +35,27 @@ I am 34 years old, work as Senior Service SCADA Engineer at ski resort in Sochi.
     - JavaScript
     - C#, Unity
     - IEC 1131-3
+
+---
+## Code examples
+```
+export const parseEnv = () => {
+    let outputString = ""
+    Object.entries(process.env)
+        .filter(([key,value]) => key.substring(0,4) === 'RSS_')
+        .map(([key,value]) => outputString = outputString.concat(`${key}=${value}; `));
+    outputString !== ""  ?  console.log(outputString.slice(0,outputString.length-2)) : null;
+};
+parseEnv();
+```
+
+---
+## Education
++ **Higher:**
+  - [MISIS](misis.ru) - Mining - *not completed*
+  - [MISIS](misis.ru) - Software - *not completed*
+  - [DONSTU](https://donstu.ru/) - Industrial innovations - ***in progress***
++ **Courses:**
+  - [soloLearn](sololearn.com) - pyhton, machine learning, C#, SQL
 
 ---
