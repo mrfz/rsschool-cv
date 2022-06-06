@@ -1,7 +1,7 @@
 # Fedor Zlobin
 
 ## Contact Info
----
+
 ***Address:*** Russian Federation, Sochi
 
 ***E-mail:*** [zlobin.f@gmail.com](mailto:zlobin.f+github@gmail.com)
@@ -15,7 +15,25 @@
 ---
 
 ## About Me
---- 
+
 I am 34 years old, work as Senior Service SCADA Engineer at ski resort in Sochi. Also I learn Industrial innovations at [DSTU](https://donstu.ru/). My willing to this course is to take a first step into software development in general and front-end in particular. 
+
+---
+## Skills
++ *Advanced:* 
+    - Honeywell EBI
+    - Honeywell CARE
+    - VBScript
+    - HVAC Automation
+    - SCADA systems in general
++ *Good:*  
+    - MS Office, Excel Automation
+    - Libre Office
+    - git
++ *Basic:*
+    - Python (numpy, pandas, matplotlib)
+    - JavaScript
+    - C#, Unity
+    - IEC 1131-3
 
 ---
